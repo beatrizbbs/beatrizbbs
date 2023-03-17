@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi, I'm Beatriz and I'm a computer science student curently working as an intern with automated tests in python. I have a passion for iOS development, C++, and Python. I've been coding since 2020 and I'm constantly learning and exploring new technologies. As an aspiring developer, I enjoy building apps and programs that solve real-world problems and make people's lives easier. With a strong foundation in computer science concepts and programming languages, I'm excited to continue developing my skills and pursuing a career in software development
+Hi, I'm Beatriz and I'm a computer science student currently working as an software developer intern. I have a passion for iOS development, C++, and Python. I've been coding since 2020 and I'm constantly learning and exploring new technologies. As an aspiring developer, I enjoy building apps and programs that solve real-world problems and make people's lives easier. With a strong foundation in computer science concepts and programming languages, I'm excited to continue developing my skills and pursuing a career in software development
 
 ## Skills
 
