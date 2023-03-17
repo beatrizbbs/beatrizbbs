@@ -1,22 +1,30 @@
-<h2> Welcome!</h2>
+<a href='https://www.linkpicture.com/view.php?img=LPic6413cd2fe74d3644279562'><img src='https://www.linkpicture.com/q/Cartão-Agradecimento-Compra-Loja-Minimalista-Branco-e-Preto.png' type='image'></a>
 
-[![Linkedin: beatrizbbs](https://img.shields.io/badge/-beatrizbbs-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/beatrizbbs/)](https://www.linkedin.com/in/beatrizbbs/)
+## Introduction
 
-<img align='right' src="https://media4.giphy.com/media/lb0PDd3K7dqB9VMe8J/giphy.gif?cid=790b7611dba5b609b46df017cd2124adcc8505efc9319bfc&rid=giphy.gif&ct=s" width="210">
+Hi, I'm Beatriz and I'm a computer science student curently working as an intern with automated tests in python. I have a passion for iOS development, C++, and Python. I've been coding since 2020 and I'm constantly learning and exploring new technologies. As an aspiring developer, I enjoy building apps and programs that solve real-world problems and make people's lives easier. With a strong foundation in computer science concepts and programming languages, I'm excited to continue developing my skills and pursuing a career in software development
 
-<p> 
-꒰ ✿ :  About me:
-</p>
+## Skills
 
-⊹ *Studying computer science at university* 
+ - iOS app development
+-   Swift programming language
+-   Objective-C programming language
+-   Xcode IDE
+-   UIKit framework
+-   Core Data framework
+-   RESTful APIs
+-   C++ programming language
+-   Python programming language
+-   Git version control
+-   Data structures and algorithms
+-   Object-oriented programming
+-   Problem-solving
+-   Debugging and troubleshooting
+-   Software development methodologies (e.g. agile, scrum)
+-   Linux/Unix shell scripting
+-   HTML/CSS and web development
+-   Database management and SQL
 
-⊹ *Focusing on C++ and Python*
-
-⊹ *Working as an intern with automated tests in Python*
-
-⊹ *Projecting a 3D renderer in C++*
-
-⊹ *Learning Swift to build an app to organize books*
-
-
-♡ My favorite movie is How To Train Your Dragon 2
+## Contact
+ Email: beaatrizbatista@hotmail.com
+ Linkedin: https://www.linkedin.com/in/beatrizbbs/
