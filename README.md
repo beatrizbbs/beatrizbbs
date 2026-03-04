@@ -1,30 +1,32 @@
-<a href='https://www.linkpicture.com/view.php?img=LPic6413cd2fe74d3644279562'><img src='https://www.linkpicture.com/q/Cartão-Agradecimento-Compra-Loja-Minimalista-Branco-e-Preto.png' type='image'></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beatrizbbs/beatrizbbs/main/assets/banner.svg" alt="Beatriz Batista - DevOps banner"/>
+</p>
 
-## Introduction
+<h2 align="center" style="color:#b29079;"><i>About Me</i></h2>
 
-Hi, I'm Beatriz and I'm a computer science student currently working as an software developer intern. I have a passion for iOS development, C++, and Python. I've been coding since 2020 and I'm constantly learning and exploring new technologies. As an aspiring developer, I enjoy building apps and programs that solve real-world problems and make people's lives easier. With a strong foundation in computer science concepts and programming languages, I'm excited to continue developing my skills and pursuing a career in software development
+DevOps and Platform Engineer with 3+ years of experience in automation, CI/CD, and cloud-native environments (AWS and GCP). Proven track record of improving pipeline stability, reducing deployment time, and building internal platforms to enhance engineering productivity. Strong background in Infrastructure as Code, containers, and Kubernetes orchestration. Impact-driven professional focused on scalability, reliability, and continuous improvement.
 
-## Skills
 
- - iOS app development
--   Swift programming language
--   Objective-C programming language
--   Xcode IDE
--   UIKit framework
--   Core Data framework
--   RESTful APIs
--   C++ programming language
--   Python programming language
--   Git version control
--   Data structures and algorithms
--   Object-oriented programming
--   Problem-solving
--   Debugging and troubleshooting
--   Software development methodologies (e.g. agile, scrum)
--   Linux/Unix shell scripting
--   HTML/CSS and web development
--   Database management and SQL
 
-## Contact
- Email: beaatrizbatista@hotmail.com
- Linkedin: https://www.linkedin.com/in/beatrizbbs/
+<h2 align="center" style="color:#b29079;"><i>Skills and Tech Stack</i></h2>
+
+<p align="center">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=python%2Clinux%2Cubuntu%2Caws%2Cgooglecloud%2Cdocker%2Ckubernetes%2Cgo%2Cjenkins&size=32&color=%23baa691"/>
+</p>
+
+<h2 align="center" style="color:#b29079;"><i>Connect With Me</i></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/beatrizbbs/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%23c9b6a4&textAlignment=horizontal&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbeatrizbbs%2F" />
+  </a>
+  <a href="mailto:biabragabatista@gmail.com">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=32&color=%23c9b6a4&textAlignment=horizontal&showText=true" />
+  </a>
+  <a href="https://leetcode.com/u/beatrizbb/">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=32&color=%23c9b6a4&textAlignment=horizontal&showText=true" />
+  </a>
+  <a href="https://medium.com/@biabragabatista">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=medium&size=32&color=%23c9b6a4&textAlignment=horizontal&showText=true" />
+  </a>
+</p>
+
