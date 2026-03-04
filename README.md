@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beatrizbbs/beatrizbbs/main/assets/banner.svg" alt="Beatriz Batista - DevOps banner"/>
+  <img src="https://raw.githubusercontent.com/beatrizbbs/beatrizbbs/main/assets/banner.png" alt="Beatriz Batista - DevOps banner"/>
 </p>
 
 <h2 align="center" style="color:#b29079;"><i>About Me</i></h2>
