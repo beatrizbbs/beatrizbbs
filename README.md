@@ -26,7 +26,7 @@
 <h2 align="center" style="color:#b29079;">☁️ <i>About Me</i></h2>
 
 <img
-  src="https://i.pinimg.com/1200x/ff/52/79/ff527985a8acd20857d1e036be453c2e.jpg"
+  src="https://github.com/beatrizbbs/beatrizbbs/blob/main/assets/%20hermione_profile.png?raw=true"
   width="250"
   align="right"
   style="margin-left: 20px;"
