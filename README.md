@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/beatrizbbs/beatrizbbs/blob/main/assets/github_banner.png?raw=true" alt="Beatriz Batista - DevOps banner"/>
+  <img src="https://github.com/beatrizbbs/beatrizbbs/blob/main/assets/hogwarts_banner.png?raw=true" alt="Beatriz Batista - Data Scientist banner"/>
 </p>
 
 <p align="center">
@@ -34,16 +34,15 @@
 
 <br/>
 
-<p>
-  Hi! I'm <em><b>Beatriz Batista</b></em>, a Senior DevOps Engineer specializing in cloud infrastructure, platform engineering, and Site Reliability Engineering (SRE), with extensive experience designing scalable systems and improving developer productivity through automation. My work focuses on building reliable CI/CD pipelines, implementing Infrastructure as Code with Terraform, and operating containerized environments using Docker and Kubernetes across AWS and GCP.
+<p>  
+  Hi! I'm <em><b>Beatriz Batista</b></em>, a Senior Data Science professional at Motorola Mobility with 6 years of experience building machine learning and statistical modeling systems that help teams make better decisions under uncertainty. My work focuses on predictive modeling, Bayesian inference, risk scoring, experimentation, model auditing, and automated analytics workflows. I specialize in turning messy, ambiguous problems into structured models, interpretable insights, and practical recommendations that support prioritization, resource allocation, and operational strategy.
 </p>
 
 <br/>
 
 <p align="left">
   ✧ <em><b>Bachelor’s degree in Computer Science from UFAM</b></em><br/>
-  ✧ <em><b>Focused on security, reliability, and documentation</b></em><br/>
-  ✧ <em><b>Currently employed, and open to new opportunities</b></em><br/>
+  ✧ <em><b>Open to international Data Science, Applied ML, and Analytics Engineering opportunities</b></em><br/>
   ✧ <em><b>My role model is Hermione Granger</b></em><br/>
 </p>
 
@@ -54,20 +53,20 @@
 <h2 align="center" style="color:#b29079;">🕯️ <i>  Technologies </i></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-baa691?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-baa691?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-baa691?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-baa691?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-baa691?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-baa691?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-baa691?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-baa691?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-baa691?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-baa691?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK-baa691?style=for-the-badge&logo=elasticstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-baa691?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-baa691?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-baa691?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-baa691?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-baa691?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-baa691?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-baa691?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-baa691?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-baa691?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-baa691?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-baa691?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistical_Modeling-baa691?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bayesian_Inference-baa691?style=for-the-badge&logo=pymc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experimentation-baa691?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-baa691?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-baa691?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-baa691?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
